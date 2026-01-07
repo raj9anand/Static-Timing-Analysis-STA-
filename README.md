@@ -1,2 +1,2 @@
 # Static-Timing-Analysis-STA
-This directory contain sdc and timing report commands
+This directory contain sdc, synthesis tcl and timing report commands
